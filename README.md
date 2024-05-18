@@ -39,7 +39,7 @@ https://github.com/Faltiiik/LED.Pasek/assets/154556338/7bb67dd8-183b-414d-8b77-9
 
 ## KÓD:
 
-
+* Kód jsem přidal do další složky
 
 
 
