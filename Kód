@@ -72,3 +72,28 @@ void loop() {
   FastLED.show();
   delay(20);
 }
+
+## Tady přidávám komentář k jednotlivým příkazům: 
+* SoftwareSerial.h: Tato knihovna umožňuje používat softwarové sériové připojení na jiných pinech než standardní hardwarové sériové připojení.
+* FastLED.h: Knihovna pro ovládání adresovatelných LED pásků (např. WS2812).
+* NUM_LEDS: Definuje počet LED diod na pásku.
+* LED_PIN: Pin, ke kterému je připojen datový vodič LED pásku.
+* COLOR_ORDER: Určuje pořadí barevných kanálů pro LED diody.
+* leds: Pole, které uchovává barvy pro každou LED diodu na pásku.
+* Bluetooth: Softwarové sériové připojení pro komunikaci s Bluetooth modulem.
+* backR, backG, backB: Počáteční barvy pozadí LED diod.
+* reactiveR, reactiveG, reactiveB: Počáteční reaktivní barvy LED diod.
+* brightness: Počáteční jas LED diod.
+* dataIn: Proměnná pro ukládání dat přijatých přes Bluetooth.
+* FastLED.addLeds: Inicializuje LED pásek.
+* FastLED.setBrightness: Nastaví počáteční jas LED diod.
+* Serial.begin: Inicializuje sériovou komunikaci pro ladění.
+* Bluetooth.begin: Inicializuje sériovou komunikaci s Bluetooth modulem.
+* for loop: Nastaví piny 3 až 48 jako vstupy. Tyto piny jsou použity pro tlačítka nebo senzory.
+* Bluetooth.available(): Kontroluje, zda jsou k dispozici data z Bluetooth.
+* Bluetooth.readString(): Čte přijatá data jako řetězec.
+* dataIn.startsWith("1"): Zpracovává data pro změnu reaktivní barvy LED.
+* dataIn.startsWith("2"): Zpracovává data pro změnu barvy pozadí LED.
+* dataIn.startsWith("3"): Zpracovává data pro změnu jasu LED.
+* for loop: Prochází všechny LED diody. Nastaví barvu každé LED diody na barvu pozadí a změní ji na reaktivní barvu, pokud je příslušný pin v LOW stavu (tlačítko nebo senzor je aktivován).
+* FastLED.show(): Aktualizuje LED pásek s novými barvami.
