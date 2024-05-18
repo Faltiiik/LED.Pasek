@@ -34,4 +34,5 @@
 
 # ZDROJE A POMOC:
 Pomoc: Jako pomocníka jsem měl svého spolužáka Tomáše Jarkovského se kterým jsme dělali podobný LED pásek. Na LED projektor jsem využil pomoc svého otce, který mi pomohl s instalací do dveří.
+
 Zdroje: Stejně jako v prvním pololetí, se jedná o AI, youtobe videa a různé články které mi hodně pomohli.
