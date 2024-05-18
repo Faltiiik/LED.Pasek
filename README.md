@@ -17,7 +17,7 @@
 * Takto to vypadalo při první fázi projektu
 ![led_pasek_001](https://github.com/Faltiiik/Led-p-sek/assets/154556338/4efa0b4b-1630-4005-b7f5-adfd6bdde1ae)
 * Takto to vypadlo v druhé fázi
-* ![led_pasek_001](https://cdn.discordapp.com/attachments/989604099660079255/1241467964079734867/IMG_5510.png?ex=664a4ea3&is=6648fd23&hm=968ef5479c6fb230c80caee0a2427122abab4b1f31da09d144c04c2e9715a46b&)
+![led_pasek_001](https://cdn.discordapp.com/attachments/989604099660079255/1241467964079734867/IMG_5510.png?ex=664a4ea3&is=6648fd23&hm=968ef5479c6fb230c80caee0a2427122abab4b1f31da09d144c04c2e9715a46b&)
 
 
 
