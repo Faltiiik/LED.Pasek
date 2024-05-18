@@ -49,7 +49,7 @@ https://github.com/Faltiiik/LED.Pasek/assets/154556338/7bb67dd8-183b-414d-8b77-9
 # ZDROJE A POMOC:
 * Pomoc: Jako pomocníka jsem měl svého spolužáka Tomáše Jarkovského se kterým jsme dělali podobný LED pásek. Na LED projektor jsem využil pomoc svého otce, který mi pomohl s instalací do dveří.
 
- Zdroje: Stejně jako v prvním pololetí, se jedná o AI, youtobe videa(např. toto video https://www.youtube.com/watch?v=GYxctjukehY&t=7s) a různé články které mi hodně pomohli.
+* Zdroje: Stejně jako v prvním pololetí, se jedná o AI, youtobe videa(např. toto video https://www.youtube.com/watch?v=GYxctjukehY&t=7s) a různé články které mi hodně pomohli.
 
 
 
