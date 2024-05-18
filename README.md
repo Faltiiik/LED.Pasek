@@ -30,7 +30,8 @@ https://github.com/Faltiiik/LED.Pasek/assets/154556338/7bb67dd8-183b-414d-8b77-9
 
 
 
-
+## ZAPOJENÍ
+* Pásek má tří pinovou koncovku - VCC (napájení na 5V), GND (ZEM) a datový pin
 
 
 ## KÓD:
@@ -50,6 +51,10 @@ https://github.com/Faltiiik/LED.Pasek/assets/154556338/7bb67dd8-183b-414d-8b77-9
 * Pomoc: Jako pomocníka jsem měl svého spolužáka Tomáše Jarkovského se kterým jsme dělali podobný LED pásek. Na LED projektor jsem využil pomoc svého otce, který mi pomohl s instalací do dveří.
 
 * Zdroje: Stejně jako v prvním pololetí, se jedná o AI, youtobe videa(např. toto video https://www.youtube.com/watch?v=GYxctjukehY&t=7s) a různé články které mi hodně pomohli.
+
+
+# ZÁVĚR:
+### Tento projekt mě naučil, jak programovat LED pásek, jaké jsou možnosti programování LED pásku a jak správně zapojit LED projektor do dvěří auta.
 
 
 
